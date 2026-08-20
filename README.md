@@ -1,1 +1,1 @@
-# employee-attrition-eda-report
+Exploratory Data Analysis (EDA) and executive business insights report on employee attrition data for Alfido Tech. Includes Python data cleaning, analytical visualizations, dashboard artifacts, and strategic retention recommendations.
